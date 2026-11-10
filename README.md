@@ -137,6 +137,20 @@ The icon's conveyor belt is
 [`conveyor_belt` from Google's Material Symbols](https://fonts.google.com/icons?selected=Material+Symbols+Rounded:conveyor_belt)
 (Apache-2.0).
 
+Thanks to [vividflash](https://github.com/vividflash) for the lever guard fix in 1.0.1.
+
+# Changelog
+
+## 1.0.1
+
+- Lever guard: the pulls a potion still needs can be made in any order. Before, MAL had to be pulled
+  Mox, Aga, Lye and potions like MLM had to alternate, though the vessel makes the same potion either
+  way. Pulls the potion doesn't need are still ignored.
+
+## 1.0.0
+
+- First release.
+
 # License
 
 BSD-2-Clause. See [LICENSE](LICENSE).
