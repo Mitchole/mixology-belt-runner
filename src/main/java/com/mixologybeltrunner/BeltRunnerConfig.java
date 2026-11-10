@@ -80,7 +80,7 @@ public interface BeltRunnerConfig extends Config
 	@ConfigItem(
 		keyName = "leverGuard",
 		name = "Lever guard",
-		description = "Ignore pulls on a lever that is not the next one the potion needs",
+		description = "Ignore pulls on a lever the potion no longer needs",
 		position = 4
 	)
 	default boolean leverGuard()

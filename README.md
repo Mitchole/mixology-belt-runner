@@ -55,7 +55,7 @@ dire. Here's to hoping Jagex lower that requirement one day.
 | Restock at | When nothing can be handed in, restock everything once this much of your stock is gone. Below that, just make the one potion the order needs (10% by default). Restocking early is quicker, because every trip costs the same walk however many potions you make |
 | Hold digweed | Keep digweed for an ordered Mixalot (off by default) |
 | Station guard | Ignore clicks on an empty station that the next potion isn't meant for (on by default) |
-| Lever guard | Ignore pulls on any lever except the next one the potion needs (on by default) |
+| Lever guard | Ignore pulls on a lever the potion no longer needs; the owed pulls can come in any order (on by default) |
 | Belt lock | Ignore belt clicks when nothing can be handed in, and spare clicks in the same tick (on by default) |
 | Path | Where to draw the walking path to your next click: floor, minimap, both or off (both by default) |
 | Colours | Highlight (station and vessel), Bonus click colour (green by default), Belt open, Digweed |
